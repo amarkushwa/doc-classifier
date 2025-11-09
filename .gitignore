@@ -58,3 +58,13 @@ sample_*.pdf
 # Audio files
 *.mp3
 *.wav
+.env
+__pycache__/
+*.pyc
+.DS_Store
+storage/
+*.log
+ngrok/
+.env.local
+.solana/
+

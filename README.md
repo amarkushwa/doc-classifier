@@ -1,4 +1,4 @@
-# Gemini Document Classifier
+# Torpe Hitachi Classifier
 
 **Max Winning Project: Gemini-Centric Document Classification System**
 
